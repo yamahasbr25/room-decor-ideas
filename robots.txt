@@ -7,4 +7,4 @@ Disallow:
 
 # Location of the XML Sitemap.
 # Make sure to replace "https://www.yourwebsitename.com" with the domain from your domain.txt file.
-Sitemap: https://roomdecorideas.github.io/AGC-V1/sitemap.xml
+Sitemap: https://yamahasbr25.github.io/room-decor-ideas/sitemap.xml
