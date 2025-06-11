@@ -1,0 +1,7 @@
+// === Setup website AGC ===
+
+1. Rubah keyword berada di file keyword.txt untuk generat konten
+2. Ganared file XML untuk feed dan sitemap dengan tool yang sudah di sediakan
+   -- DOMAIN-ANDA/tool-feed
+   -- DOMAIN-ANDA/tool-sitemap
+3. Rubah link domain di robots.txt (akan berpengaruh di SEO)

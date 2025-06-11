@@ -1,0 +1,10 @@
+# Instructions for all web crawlers
+User-agent: *
+
+# Allow crawlers to access all parts of the site.
+# We are not disallowing anything because all content is public and meant to be indexed.
+Disallow:
+
+# Location of the XML Sitemap.
+# Make sure to replace "https://www.yourwebsitename.com" with the domain from your domain.txt file.
+Sitemap: https://roomdecorideas.github.io/AGC-V1/sitemap.xml
